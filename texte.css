@@ -8,7 +8,6 @@
   src: url(Roboto-Regular.ttf);
 }
 
-@media all and (orientation: portrait);
   p {
 
         margin-left: 10 !important;
@@ -54,7 +53,7 @@ font-family: 'afterglow', serif;
 font-size: 18px}
 
 
-@media screen and (min-width: 1000px){
+@media all and (min-width: 800px){
 
 p { margin-top: 2%;
   margin-bottom: 1%;
