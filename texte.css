@@ -8,7 +8,7 @@
   src: url(Roboto-Regular.ttf);
 }
 
-@media screen and (max-width: 1000px)
+@media screen and (max-width: 1000px){
 
 
 body {
@@ -52,7 +52,7 @@ text-align: center;
 font-family: 'afterglow', serif;
 font-size: 18px}
 
-
+}
 
 @media all and (min-width: 1000px){
 
