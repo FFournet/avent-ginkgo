@@ -8,7 +8,7 @@
   src: url(Roboto-Regular.ttf);
 }
 
-@media (max-height: 100vh) {
+@media (max-width: 1000px) {
 
   p {
 
