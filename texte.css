@@ -8,13 +8,13 @@
   src: url(Roboto-Regular.ttf);
 }
 
-@media (max-width: 480px) {
+@media only screen and (max-width: 480px) {
 
   p {
 
-        margin-left: 30 !important;
-        margin-right: 30 !important;
-        margin-top: 10 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        margin-top: 0 !important;
 
         font-family: 'roboto', sans-serif;
         font-size: 18px;
