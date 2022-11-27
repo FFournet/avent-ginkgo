@@ -8,7 +8,7 @@
   src: url(Roboto-Regular.ttf);
 }
 
-@media all and (max-width: 1000px)
+@media screen and (max-width: 1000px)
 p {
 
     margin-left: 5% !important;
