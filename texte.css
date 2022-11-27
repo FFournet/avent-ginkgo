@@ -17,7 +17,7 @@ p {
 
     font-family: 'roboto', sans-serif;
     font-size: 18px;
-    color : #dfdff2 ;
+    color: red; 
     line-height: 125%;
     }
 
@@ -32,7 +32,7 @@ h1 { margin-top: 6%;
   font-family: 'afterglow', serif;
   font-size: 40px !important;
 
-  text-align: left;
+  text-align: center;
 
 
 
